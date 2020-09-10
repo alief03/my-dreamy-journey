@@ -1,0 +1,85 @@
+@media (max-width : 670px) {
+    
+    .container {
+        margin : 4px 0;
+        width: 100%;
+        height: 100%
+    }
+
+    .profil {
+        float: initial;
+        padding-bottom : 5px;
+        margin: 0 0;
+        width: 59%;
+        height: 100%;
+    }
+
+    .profil .img {
+        background-size: cover;
+        width: 300px;
+        padding: 0 0;
+        margin: 0 0;
+    }
+
+    .name {
+        padding: 2px 20px;
+        text-align: left;
+        font-size: 12px;
+        font-style: normal;
+    }
+
+    /*header*/
+
+    #menu .ab {
+        display: none;
+    }
+
+    #menu .bar {
+        display: inherit;
+    }
+    
+    #atas img {
+        display: none;
+    }
+
+    .logo {
+        display: none;
+    }
+
+    /*footer*/
+
+    footer .footer-about {
+        width: 550px;
+        margin-top: 15px;
+    }
+
+    footer .footer-section {
+        float: inherit;
+        margin-left: 30px;
+    }
+
+    footer .footer-content {
+        height: 100%
+    }
+
+    footer h4 {
+        padding-top: 30px;
+    }
+
+    form input {
+        width: 100%;
+    }
+}
+    @media(max-width: 1000px;) {
+     #batas {
+         padding: 2px 10px;
+     }   
+     #atas h1 {
+         padding-left: 2px;
+     }
+
+     #menu a {
+         font-size: 1px;
+     }
+
+    }
